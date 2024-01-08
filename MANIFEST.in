@@ -1,0 +1,2 @@
+include plover_lapwing/dictionaries/*
+include plover_lapwing/dictionaries/lapwing/*
