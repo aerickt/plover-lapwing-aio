@@ -1,5 +1,7 @@
 # Plover Lapwing AIO
 
+[![pypi](https://img.shields.io/pypi/v/plover-lapwing-aio)](https://pypi.org/project/plover-lapwing-aio/)
+
 Lapwing AIO automatically installs all the necessary plugins and dictionaries for using Lapwing theory with Plover.
 
 ## Installation
@@ -23,7 +25,8 @@ Check out the [Lapwing for Beginners](https://github.com/aerickt/lapwing-for-beg
 This plugin adds the following dictionaries by default:
 
 - user.json
-   - Empty dictionary for user additions
+   - This is the same dictionary used in the default English stenotype system
+   - If you have made additions to this dictionary, they will carry over to Lapwing
 - movement.modal
    - Modal dictionary for easy movement
    - See [chapter 26](https://github.com/aerickt/lapwing-for-beginners/wiki/Chapter-26:-Editing-Text) of the Lapwing wiki for more details
