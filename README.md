@@ -1,6 +1,6 @@
 # Plover Lapwing AIO
 
-[![pypi](https://img.shields.io/pypi/v/plover-lapwing-aio)](https://pypi.org/project/plover-lapwing-aio/)
+[![pypi](https://img.shields.io/pypi/v/plover-lapwing-aio)](https://pypi.org/project/plover-lapwing-aio/) [![pypi](https://img.shields.io/pypi/dm/plover-lapwing-aio.svg)](https://pypi.org/project/plover-lapwing-aio/) [![paypal](https://img.shields.io/badge/-Buy%20me%20a%20coffee%20%3AD-informational?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=VNMUULBPTQGMC)
 
 Lapwing AIO automatically installs all the necessary plugins and dictionaries for using Lapwing theory with Plover.
 
@@ -10,7 +10,7 @@ Lapwing AIO automatically installs all the necessary plugins and dictionaries fo
 
 ## Usage
 
-Under Plover's configuration, change the system to "Lapwing Stenotype" under the system tab. Note that your dictionary stack will be reset and you will have to re-add any dictionaries you've previously used.
+Under Plover's configuration, change the system to "Lapwing" under the system tab. Note that your dictionary stack will be reset and you will have to re-add any dictionaries you've previously used.
 
 For modal movement to work, you will also have to enable the modal dictionary extension. In Plover's configuration, go to the plugins tab and check modal dictionary box. Please note that this plugin is somewhat hacky and is incompatible with other plugins such as plover-clippy2 and plover-tapey-tape.
 
