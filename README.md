@@ -6,7 +6,7 @@ Lapwing AIO automatically installs all the necessary plugins and dictionaries fo
 
 ## Installation
 
-In Plover's main window, click on the `Tools → Plugins Manager`. Scroll down until you see `plover-lapwing-aio` and select it. Press the `Install/Update` plugin and make sure to press `Restart` afterwards.
+In Plover's main window, click on `Tools → Plugins Manager`. Scroll down until you see `plover-lapwing-aio` and select it. Press the `Install/Update` plugin and make sure to press `Restart` afterwards.
 
 ![plugins manager](https://github.com/aerickt/lapwing-for-beginners/wiki/img/5-plugins-manager.png)
 
