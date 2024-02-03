@@ -116,4 +116,4 @@ KEYMAPS = {
 }
 
 DICTIONARIES_ROOT = 'asset:plover_lapwing:dictionaries'
-DEFAULT_DICTIONARIES = ('user.json', 'movement.modal', 'jeff-phrasing.py', 'abby-left-hand-modifiers.py', 'emily-modifiers.py', 'emily-symbols.py', 'lapwing-uk-additions.json', 'lapwing-base.json')
+DEFAULT_DICTIONARIES = ('user.json', 'movement.modal', 'jeff-phrasing.py', 'abby-left-hand-modifiers.py', 'emily-modifiers.py', 'emily-symbols.py', 'lapwing-numbers.json', 'lapwing-uk-additions.json', 'lapwing-prefixed-proper-nouns.json', 'lapwing-base.json')
