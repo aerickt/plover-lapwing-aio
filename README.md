@@ -35,7 +35,7 @@ This plugin adds the following dictionaries by default:
 - user.json
    - This is the same dictionary used in the default English stenotype system
    - If you have made additions to this dictionary, they will carry over to Lapwing
-- movement.modal
+- [movement.modal](https://github.com/aerickt/steno-dictionaries/blob/plover-lapwing-aio/movement.modal)
    - Modal dictionary for easy movement
    - See [chapter 26](https://github.com/aerickt/lapwing-for-beginners/wiki/Chapter-26:-Editing-Text) of the Lapwing wiki for more details
 - [jeff-phrasing.py](https://github.com/jthlim/jeff-phrasing)
@@ -46,13 +46,13 @@ This plugin adds the following dictionaries by default:
    - Python dictionary for two-handed shortcuts
 - [emily-symbols.py](https://github.com/EPLHREU/emily-symbols)
    - Python dictionary for systematic symbols
-- [lapwing-numbers.json](https://github.com/aerickt/lapwing-for-beginners/wiki/Chapter-17:-Fingerspelling-and-Numbers)
+- [lapwing-numbers.json](https://github.com/aerickt/steno-dictionaries/blob/plover-lapwing-aio/lapwing-numbers.json)
    - Right hand numberpad for Lapwing
-- [lapwing-uk-additions.json](https://github.com/aerickt/lapwing-for-beginners/wiki)
+- [lapwing-uk-additions.json](https://github.com/aerickt/steno-dictionaries/blob/plover-lapwing-aio/lapwing-uk-additions.json)
    - Lapwing dictionary for UK spellings
-- [lapwing-prefixed-proper-nouns.json](https://github.com/aerickt/lapwing-for-beginners/wiki/Chapter-18:-Proper-Nouns)
+- [lapwing-prefixed-proper-nouns.json](https://github.com/aerickt/steno-dictionaries/blob/plover-lapwing-aio/lapwing-prefixed-proper-nouns.json)
    - Proper nouns with prefixed outlines
-- [lapwing-base.json](https://github.com/aerickt/lapwing-for-beginners/wiki/Chapter-20:-UK-Spellings)
+- [lapwing-base.json](https://github.com/aerickt/steno-dictionaries/blob/plover-lapwing-aio/lapwing-base.json)
    - Main Lapwing dictionary
 
 ### Plugins
