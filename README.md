@@ -46,8 +46,12 @@ This plugin adds the following dictionaries by default:
    - Python dictionary for two-handed shortcuts
 - [emily-symbols.py](https://github.com/EPLHREU/emily-symbols)
    - Python dictionary for systematic symbols
+- [lapwing-numbers.json](https://github.com/aerickt/lapwing-for-beginners/wiki/Chapter-17:-Fingerspelling-and-Numbers)
+   - Right hand numberpad for Lapwing
 - [lapwing-uk-additions.json](https://github.com/aerickt/lapwing-for-beginners/wiki)
    - Lapwing dictionary for UK spellings
+- [lapwing-prefixed-proper-nouns.json](https://github.com/aerickt/lapwing-for-beginners/wiki/Chapter-18:-Proper-Nouns)
+   - Proper nouns with prefixed outlines
 - [lapwing-base.json](https://github.com/aerickt/lapwing-for-beginners/wiki/Chapter-20:-UK-Spellings)
    - Main Lapwing dictionary
 
