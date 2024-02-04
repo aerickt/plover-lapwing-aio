@@ -20,7 +20,7 @@ Once Plover has been restarted, in Plover's main window, click on `Configure →
 
 Under Plover's configuration, change the system to "Lapwing" under the system tab. Note that your dictionary stack will be reset and you will have to re-add any dictionaries you've previously used.
 
-For modal movement to work, you will also have to enable the modal dictionary extension. In Plover's configuration, go to the plugins tab and check modal dictionary box. Please note that this plugin is somewhat hacky and is incompatible with other plugins such as plover-clippy2 and plover-tapey-tape.
+For modal movement to work, you will also have to enable the modal dictionary extension. Go to `Configure → Plugins` and check the  `modal_update` box. Please note that this plugin is somewhat hacky and may cause issues with other plugins such as plover-clippy2 and plover-tapey-tape when enabled.
 
 ### How to learn Lapwing
 
