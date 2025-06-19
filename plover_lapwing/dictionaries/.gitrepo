@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/aerickt/steno-dictionaries
 	branch = plover-lapwing-aio
-	commit = 3a9572ab17cc194cbdd2dd8d116e601a476979a4
+	commit = a035a3864621b5861964d0b541cba691b8ad3a62
 	parent = 6fc713aaee687caf930aee73556a361682da288d
 	method = merge
 	cmdver = 0.4.9
