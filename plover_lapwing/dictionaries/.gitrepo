@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/aerickt/steno-dictionaries
 	branch = main
-	commit = e75997b64fb387f35b9d2a96bb47f78ee07ea5ff
-	parent = 1ca631a2c948e047caded57bdc85b34afe7f9c36
+	commit = 2beb76dcb29b948976ddf5bfe65837e8f95038de
+	parent = d24ac252db0ee7ccecbb8cce8053718a2dd21965
 	method = merge
 	cmdver = 0.4.9
