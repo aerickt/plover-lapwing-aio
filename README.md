@@ -74,3 +74,13 @@ With stock Plover, pressing the number key shifts several keys into numbers. Usi
 ### Top `S` number key relocation
 
 This plugin contains several keymaps which automatically remaps the top `S` key to the number key.
+
+## Contributing
+
+Contributions are welcome. All changes to Lapwing (including dictionary edits) will be applied in this repository.
+
+> Previously the plover-lapwing-aio dictionaries were pulled using git-subrepo from the plover-lapwing-aio branch of my steno-dictionaries repo. This will not be the case moving forward. I am treating the steno-dictionaries repo as a collection of my personal dictionaries, while the official Lapwing dictionaries will reside here.
+
+### Dictionaries
+
+The dictionaries are found in [plover-lapwing-aio/plover_lapwing/dictionaries](https://github.com/aerickt/plover-lapwing-aio/tree/main/plover_lapwing/dictionaries)
